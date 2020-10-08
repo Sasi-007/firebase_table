@@ -94,12 +94,6 @@
         <script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
         <script src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script>
         <!-- Datatable init js -->
-<<<<<<< HEAD
         <script src="assests/datatables.init.js"></script> 
-=======
-        <script src="assets/js/pages/datatables.init.js"></script> 
-        <script src="assets/js/app.js"></script>
-
->>>>>>> 163b0d320ca84e8af122e45d65cbfdd890d39816
     </body>
 </html>
