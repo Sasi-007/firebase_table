@@ -13,11 +13,6 @@
 
         <!-- Bootstrap Css -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <!-- Icons Css -->
-        <link href="assets/css/icons.min.css" rel="stylesheet" type="text/css">
-        <!-- App Css-->
-        <link href="assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css">
-
     </head>
 
     <body data-sidebar="dark">
@@ -45,8 +40,6 @@
                                             <tr>
                                                 <th>Name</th>
                                                 <th>Email</th>
-                                                <!-- <th class="btn header-item noti-icon right-bar-toggle waves-effect">
-Submit                            </th> -->
 <th>Link</th> 
 </tr>
                                             </thead>
@@ -54,7 +47,7 @@ Submit                            </th> -->
                                         <tr>
                                             <td>Hi</td>
                                             <td>Hello</td>
-                                            <td class="btn btn-primary">Link</td>
+                                            <td class="btn btn-primary"><a href="#" style="color:white;">Link</a></td>
                                         </tr>
                                             </tbody>
                                         </table>
@@ -102,9 +95,6 @@ Submit                            </th> -->
         <script src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script>
 
         <!-- Datatable init js -->
-        <script src="assets/js/pages/datatables.init.js"></script> 
-
-        <script src="assets/js/app.js"></script>
-
+        <script src="assests/datatables.init.js"></script> 
     </body>
 </html>
